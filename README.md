@@ -1,7 +1,6 @@
 # Weather Classification
 
-This project classifies weather conditions from images using deep learning (CNN).
-
+This project classifies weather conditions from images 
 ## Classes
 - cloud
 - rain
